@@ -1,1 +1,1 @@
-i stoped making python projects
+i stopped making python projects
